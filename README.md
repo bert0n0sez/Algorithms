@@ -1,2 +1,2 @@
-# Algorithms-BT-3-semester
-Algorithms and data structures biotechnology 2024
+# Algorithms
+Algorithms and data structures
